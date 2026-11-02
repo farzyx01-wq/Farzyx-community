@@ -1,0 +1,281 @@
+---
+name: Jurnal Trading Pro
+colors:
+  surface: '#031429'
+  surface-dim: '#031429'
+  surface-bright: '#2a3a51'
+  surface-container-lowest: '#000e23'
+  surface-container-low: '#0b1c32'
+  surface-container: '#0f2036'
+  surface-container-high: '#1b2b41'
+  surface-container-highest: '#26354c'
+  on-surface: '#d4e3ff'
+  on-surface-variant: '#c2c6d6'
+  inverse-surface: '#d4e3ff'
+  inverse-on-surface: '#213148'
+  outline: '#8c909f'
+  outline-variant: '#424754'
+  surface-tint: '#adc6ff'
+  primary: '#adc6ff'
+  on-primary: '#002e6a'
+  primary-container: '#4d8eff'
+  on-primary-container: '#00285d'
+  inverse-primary: '#005ac2'
+  secondary: '#5de6ff'
+  on-secondary: '#00363e'
+  secondary-container: '#00cbe6'
+  on-secondary-container: '#00515d'
+  tertiary: '#4ae176'
+  on-tertiary: '#003915'
+  tertiary-container: '#00a74b'
+  on-tertiary-container: '#003111'
+  error: '#ffb4ab'
+  on-error: '#690005'
+  error-container: '#93000a'
+  on-error-container: '#ffdad6'
+  primary-fixed: '#d8e2ff'
+  primary-fixed-dim: '#adc6ff'
+  on-primary-fixed: '#001a42'
+  on-primary-fixed-variant: '#004395'
+  secondary-fixed: '#a2eeff'
+  secondary-fixed-dim: '#2fd9f4'
+  on-secondary-fixed: '#001f25'
+  on-secondary-fixed-variant: '#004e5a'
+  tertiary-fixed: '#6bff8f'
+  tertiary-fixed-dim: '#4ae176'
+  on-tertiary-fixed: '#002109'
+  on-tertiary-fixed-variant: '#005321'
+  background: '#031429'
+  on-background: '#d4e3ff'
+  surface-variant: '#26354c'
+typography:
+  display-lg:
+    fontFamily: Inter
+    fontSize: 36px
+    fontWeight: '700'
+    lineHeight: 44px
+    letterSpacing: -0.02em
+  headline-lg:
+    fontFamily: Inter
+    fontSize: 28px
+    fontWeight: '600'
+    lineHeight: 36px
+    letterSpacing: -0.02em
+  headline-lg-mobile:
+    fontFamily: Inter
+    fontSize: 22px
+    fontWeight: '600'
+    lineHeight: 28px
+    letterSpacing: -0.01em
+  headline-md:
+    fontFamily: Inter
+    fontSize: 20px
+    fontWeight: '600'
+    lineHeight: 28px
+    letterSpacing: -0.01em
+  metric-xl:
+    fontFamily: Inter
+    fontSize: 30px
+    fontWeight: '700'
+    lineHeight: 36px
+    letterSpacing: -0.01em
+  metric-lg:
+    fontFamily: Inter
+    fontSize: 22px
+    fontWeight: '600'
+    lineHeight: 28px
+    letterSpacing: -0.01em
+  metric-md:
+    fontFamily: Inter
+    fontSize: 16px
+    fontWeight: '600'
+    lineHeight: 22px
+    letterSpacing: 0em
+  body-lg:
+    fontFamily: Inter
+    fontSize: 16px
+    fontWeight: '400'
+    lineHeight: 24px
+    letterSpacing: 0em
+  body-md:
+    fontFamily: Inter
+    fontSize: 14px
+    fontWeight: '400'
+    lineHeight: 20px
+    letterSpacing: 0em
+  body-sm:
+    fontFamily: Inter
+    fontSize: 12px
+    fontWeight: '400'
+    lineHeight: 18px
+    letterSpacing: 0.01em
+  label-md:
+    fontFamily: Inter
+    fontSize: 13px
+    fontWeight: '500'
+    lineHeight: 18px
+    letterSpacing: 0.01em
+  label-sm:
+    fontFamily: Inter
+    fontSize: 11px
+    fontWeight: '600'
+    lineHeight: 16px
+    letterSpacing: 0.04em
+  caption:
+    fontFamily: Inter
+    fontSize: 10px
+    fontWeight: '500'
+    lineHeight: 14px
+    letterSpacing: 0.02em
+rounded:
+  sm: 0.25rem
+  DEFAULT: 0.5rem
+  md: 0.75rem
+  lg: 1rem
+  xl: 1.5rem
+  full: 9999px
+spacing:
+  gutter: 1rem
+  gutter-desktop: 1.25rem
+  margin: 1rem
+  margin-tablet: 1.5rem
+  margin-desktop: 2rem
+  space-2xs: 0.125rem
+  space-xs: 0.25rem
+  space-sm: 0.5rem
+  space-md: 0.75rem
+  space-lg: 1rem
+  space-xl: 1.5rem
+  space-2xl: 2rem
+---
+
+## Brand & Style
+
+Sistem desain ini dirancang khusus untuk platform jurnal analitik trading profesional kelas atas (*high-end fintech*). Estetika visual mengusung presisi terminal modern, memberikan kesan tenang, terstruktur, analitis, dan berwibawa bagi para trader aktif maupun institusional. Pendekatan visual berakar pada gaya *Modern Dark Fintech Minimalist* dengan densitas data padat namun bernapas lega, memprioritaskan keterbacaan angka, rasio metrik performa, serta kejelasan visual tanpa distraksi ornamen berlebih.
+
+Antarmuka menonjolkan kedalaman berlapis melalui kontras permukaan navy dingin, garis batas setipis 1px yang tajam, serta hierarki tipografi tegas. Pengalaman pengguna ditujukan untuk membangkitkan rasa disiplin, ketenangan emosional saat menghadapi volatilitas pasar, dan kepastian berbasis kalkulasi matematis. Seluruh salinan teks, label metrik, navigasi, dan interaksi disajikan dalam Bahasa Indonesia yang lugas dan profesional.
+
+## Colors
+
+Palet warna dibangun di atas fondasi nuansa *Deep Navy* yang dirancang khusus untuk kenyamanan mata selama jam trading yang panjang. Hirarki warna disusun secara ketat untuk membedakan konteks struktural, status eksekusi, serta metrik keuntungan/kerugian finansial.
+
+### Warna Latar & Permukaan Struktural
+- **Latar Belakang Kanvas (`#0b1220`)**: Fondasi utama antarmuka yang menyerap cahaya dan menghadirkan kontras maksimal terhadap konten.
+- **Permukaan Kartu / Kontainer (`#111a2e`)**: Lapis elevasi utama untuk widget, grafik analitik, dan tabel transaksi.
+- **Permukaan Input / Status Nonaktif (`#0f172a`)**: Digunakan untuk kolom isian, status hover minor, atau sel tabel bergantian.
+- **Garis Batas Struktural (`#1e2b45`)**: Garis batas 1px yang konsisten pada seluruh panel, pemisah data, dan kontainer kartu.
+
+### Tipografi & Konten Netral
+- **Teks Primer (`#e6edf7`)**: Digunakan untuk nilai moneter, judul, data penting, dan label status utama.
+- **Teks Sekunder (`#8a9ab5`)**: Digunakan untuk label metrik, tanggal, waktu eksekusi, keterangan pendukung, dan teks bantuan.
+- **Teks Muted / Nonaktif (`#4b5d78`)**: Untuk ikon nonaktif, placeholder kolom input, dan garis kisi-kisi latar belakang chart.
+
+### Warna Aksen & Sorotan Interaktif
+- **Aksen Biru (`#3b82f6`)**: Aksi primer, status tab aktif, fokus input, dan tombol aksi utama (*Call to Action*).
+- **Aksen Cyan (`#22d3ee`)**: Sorotan metrik analitik, rasio kemenangan (*Win Rate*), filter aktif, dan tren komparatif.
+
+### Indikator Keuangan (PnL & Sentimen Pasar)
+- **Profit / Laba (`#22c55e`)**: Emerald green tegas untuk PnL positif, rasio *Risk-to-Reward* tercapai, dan posisi beli (*Long*). Latar pendukung: `rgba(34, 197, 94, 0.12)`.
+- **Loss / Rugi (`#ef4444`)**: Crimson red tajam untuk PnL negatif, pelanggaran aturan trading, dan posisi jual (*Short*). Latar pendukung: `rgba(239, 68, 68, 0.12)`.
+
+## Typography
+
+Sistem tipografi menggunakan satu keluarga huruf terpadu: **Inter**. Pilihan ini menjamin konsistensi rendering lintas platform dan performa maksimal pada tampilan tabel data intensif.
+
+### Konfigurasi Karakter Finansial (Tabular Figures)
+Untuk seluruh tingkatan metrik (`metric-*`), baris tabel, log order, volume, persentase, serta harga, properti CSS `font-feature-settings: "tnum" 1, "cv05" 1, "cv11" 1` harus diaktifkan secara wajib. Ini memastikan setiap digit angka memiliki lebar monospasial seragam, menjaga konsistensi perataan desimal vertikal ketika membaca portofolio, tabel transaksi, atau kalkulasi resiko.
+
+### Penggunaan Bahasa Indonesia
+Seluruh format penulisan mata uang, singkatan, dan hierarki kata mengacu pada konvensi trading standar Bahasa Indonesia:
+- Format Mata Uang: `Rp12.450.000,00` atau denominasi standar `$1,240.50` dengan pemisah desimal yang presisi.
+- Singkatan Metrik: *R:R* (Rasio Risiko/Imbalan), *PnL Bersih*, *Vol. Lot*, *Tingkat Kemenangan*, *Faktor Keuntungan*.
+- Penegasan status menggunakan bobot semi-bold (600) untuk membedakan antara label deskriptif dan nilai variabel kuantitatif.
+
+## Layout & Spacing
+
+Sistem layout menggunakan pendekatan **Fluid Grid Berdensitas Terkendali** dengan 12 kolom pada desktop, 8 kolom pada tablet, dan 4 kolom pada ponsel. Tata letak dioptimalkan untuk menyajikan informasi dashboard analitik tanpa membuang ruang vertikal yang berharga.
+
+### Struktur Grid & Titik Henti (*Breakpoints*)
+- **Desktop (>= 1280px)**: Grid 12 kolom, margin kanvas `2rem` (32px), gutter `1.25rem` (20px). Menyajikan multi-panel widget (ringkasan PnL, grafik ekuitas kumulatif, log order harian, dan matriks distribusi strategi).
+- **Tablet (768px - 1279px)**: Grid 8 kolom, margin `1.5rem` (24px), gutter `1rem` (16px). Reflow modular di mana chart utama mengambil lebar penuh (8 kolom) dan metrik statistik tersusun dalam formasi 2x2.
+- **Ponsel (< 768px)**: Grid 4 kolom, margin `1rem` (16px), gutter `1rem` (16px). Semua kartu modular bertumpuk 1 kolom secara vertikal; tabel beralih ke mode kartu baris ringkas dengan scroll horizontal khusus pada data kolom lanjutan.
+
+### Irama Spasi
+Spasi internal komponen diatur sangat efisien:
+- Sel tabel dan baris data menggunakan densitas tinggi dengan padding vertikal `0.5rem` (`space-sm`) hingga `0.625rem` guna memaksimalkan visibilitas data baris per layar.
+- Jarak antar kartu panel menggunakan `1.25rem` (`gutter-desktop`) untuk mempertahankan pemisahan visual modular.
+
+## Elevation & Depth
+
+Desain sistem ini menolak penggunaan bayangan blur yang buram (*soft blurred shadows*) tradisional karena dapat mengaburkan batas data kuantitatif. Sebagai gantinya, hierarki kedalaman dicapai melalui teknik **Tonal Layers & Crisp 1px Outlines**.
+
+### 1. Tingkatan Permukaan (Surface Tiers)
+- **Lantai Dasar (Level 0 - Kanvas)**: Warna `#0b1220`. Mengisi area ruang kosong antar modul dan navigasi rel samping.
+- **Lantai Menengah (Level 1 - Kartu & Panel Data)**: Warna `#111a2e` dilapisi garis pembatas solid `1px solid #1e2b45`. Semua kartu analitik, header tabel, dan area filter berada pada level ini.
+- **Lantai Interaktif (Level 2 - Hover Kartu, Dropdown, Menu Aksi)**: Warna `#16223b` dengan batas `1px solid #2a3c61`. Efek hover mempertahankan kontras tajam.
+- **Lantai Melayang (Level 3 - Modal Log Transaksi & Popover Metrik)**: Warna `#131e36` dengan batas `1px solid #3b82f6` (aksen) serta aksen bayangan tipis terarah: `0 12px 32px -4px rgba(2, 6, 23, 0.7)`.
+
+### 2. Efek Garis Batas & Kilau Mikro (*Inner Border Glow*)
+Elemen aktif atau bernilai positif/negatif tinggi menggunakan pencahayaan tepi (*subtle inner edge stroke*):
+- Status Aktif/Fokus: Garis luar `1px solid #3b82f6` dengan bayangan dalam halus `box-shadow: inset 0 0 0 1px rgba(59, 130, 246, 0.2)`.
+- Status Profit Tertinggi: Tepi kartu dapat memiliki highlight atas 1px dengan gradien `linear-gradient(90deg, transparent, rgba(34, 197, 94, 0.4), transparent)`.
+- Status Loss Tertinggi: Tepi kartu dengan gradien `linear-gradient(90deg, transparent, rgba(239, 68, 68, 0.4), transparent)`.
+
+## Shapes
+
+Karakter bentuk dalam sistem desain ini didefinisikan secara tegas untuk menghasilkan keseimbangan antara perangkat profesional modern dan kehalusan ergonomis.
+
+### Kurvatur Kartu & Wadah (14px)
+Seluruh kontainer kartu modular, widget grafik, kalender trading, dan modul riwayat transaksi menggunakan radius sudut spesifik **14px** (`border-radius: 14px`). Radius 14px memberikan kelembutan modern yang elegan tanpa membuat antarmuka analitik terasa kekanak-kanakan atau terlalu bulat.
+
+### Skala Komponen Terkait
+- **Kartu Utama, Panel Dashboard, & Dialog Modal**: Sudut lengkung `14px`.
+- **Kolom Input, Tombol Eksekusi, & Dropdown**: Sudut lengkung `8px` (`rounded-sm`) untuk menjaga ketajaman fungsi aksi.
+- **Badge Indikator, Chip Tag, & Pill Filter Status**: Sudut lengkung penuh `9999px` (Pill) atau `6px` mikro untuk tag instrumen (mis. `XAUUSD`, `BTCUSDT`, `BBRI`).
+- **Sel Indikator Kalender PnL**: Sudut lengkung `6px` presisi dengan jarak seragam `4px`.
+
+## Components
+
+Seluruh komponen dirancang dengan tata bahasa visual dark terminal yang solid, menggunakan salinan teks resmi Bahasa Indonesia.
+
+### 1. Kartu & Panel Metrik (Cards)
+- **Struktur**: Latar `#111a2e`, garis batas `1px solid #1e2b45`, sudut `14px`, padding `1.25rem`.
+- **Anatomi Kartu Metrik Ringkas**:
+  - *Header*: Label metrik teks sekunder `#8a9ab5` (mis. "Total Laba Bersih", "Faktor Keuntungan", "Rasio Menang") bersanding dengan ikon status.
+  - *Konten Utama*: Angka tabular tebal `metric-xl` warna `#e6edf7`, atau dinamis `#22c55e` (keuntungan) / `#ef4444` (kerugian).
+  - *Footer Metrik*: Komparasi mikro terhadap minggu lalu (mis. "+12,4% vs bulan lalu").
+
+### 2. Tombol (Buttons)
+- **Tombol Utama (Primary)**: Latar `#3b82f6`, teks `#ffffff`, border transparan, sudut `8px`, teks `label-md` tebal. Efek hover: latar `#2563eb`. State aktif: `transform: scale(0.98)`. Label contoh: "Tambah Transaksi Baru", "Simpan Jurnal".
+- **Tombol Sekunder (Secondary)**: Latar `#0f172a`, border `1px solid #1e2b45`, teks `#e6edf7`. Hover: border `#3b82f6`, teks `#ffffff`. Label contoh: "Ekspor Laporan (CSV)", "Atur Filter".
+- **Tombol Eksekusi Posisi**:
+  - *Beli (Long)*: Latar `rgba(34, 197, 94, 0.15)`, border `1px solid #22c55e`, teks `#22c55e`.
+  - *Jual (Short)*: Latar `rgba(239, 68, 68, 0.15)`, border `1px solid #ef4444`, teks `#ef4444`.
+
+### 3. Chip, Badge, & Tag Filter
+- **Badge Posisi Trading**:
+  - `LONG`: Badge latar `rgba(34, 197, 94, 0.12)`, border `1px solid rgba(34, 197, 94, 0.3)`, teks hijau `#22c55e`, font `label-sm`.
+  - `SHORT`: Badge latar `rgba(239, 68, 68, 0.12)`, border `1px solid rgba(239, 68, 68, 0.3)`, teks merah `#ef4444`, font `label-sm`.
+- **Tag Instrumen & Emiten**: Latar `#0b1220`, border `1px solid #1e2b45`, teks `#e6edf7`, format mono/tabular untuk simbol pair.
+- **Chip Filter Aktif**: Menggunakan aksen cyan `#22d3ee` pada border dan teks indikator saat aktif.
+
+### 4. Input Fields & Dropdown Pemilih
+- Latar kolom `#0b1220`, border `1px solid #1e2b45`, teks `#e6edf7`, placeholder `#4b5d78`, sudut `8px`, padding `0.625rem 0.875rem`.
+- State fokus: Border beralih ke `#3b82f6` dengan ring bayangan halus `0 0 0 1px #3b82f6`.
+- Label input diletakkan di atas kolom menggunakan teks `#8a9ab5` font `label-md`.
+
+### 5. Tabel Jurnal Transaksi (Data Table)
+- **Header Tabel**: Latar `#0f172a`, teks `#8a9ab5`, uppercase `label-sm`, padding vertikal `10px`, padding horizontal `12px`, border bawah `1px solid #1e2b45`.
+- **Baris Transaksi**: Garis pembatas bawah `1px solid #16223b`. Hover baris menghasilkan latar `#131e36`.
+- Kolom angka (Harga Beli, Target Harga, Stop Loss, Lot/Ukuran, PnL Bersih) wajib rata kanan dengan angka tabular monospasial.
+- Kolom Teks (Instrumen, Strategi/Setup, Catatan Psikologis) rata kiri.
+
+### 6. Kotak Centang (Checkboxes) & Tombol Radio
+- Ukuran kotak 16x16px, latar `#0b1220`, border `1px solid #1e2b45`, sudut `4px` (checkbox) atau lingkaran penuh (radio).
+- Saat dicentang: Latar `#3b82f6`, border `#3b82f6`, ikon centang putih bersih.
+
+### 7. Kalender Performa Trading Harian (Trading Calendar Grid)
+- Sel berukuran bujur sangkar dengan border radius `6px`.
+- Sel tanpa transaksi: Latar `#111a2e`, border `1px solid #1e2b45`.
+- Hari profit: Latar bertingkat dari hijau muda transparan hingga hijau pekat (`rgba(34, 197, 94, 0.1)` hingga `rgba(34, 197, 94, 0.45)`), border `rgba(34, 197, 94, 0.4)`, angka PnL hijau di pojok kanan bawah.
+- Hari loss: Latar bertingkat merah (`rgba(239, 68, 68, 0.1)` hingga `rgba(239, 68, 68, 0.45)`), border `rgba(239, 68, 68, 0.4)`, angka PnL merah di pojok kanan bawah.

@@ -1,0 +1,6 @@
+{
+  "name": "Jurnal Trading Pro",
+  "description": "Platform analitik jurnal trading profesional bergaya dark modern fintech dengan kalkulasi presisi moneter, kalender performa PnL, dan evaluasi psikologi trading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
